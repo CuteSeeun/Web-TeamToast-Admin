@@ -3,15 +3,6 @@
 
 export default function Home() {
   return (
-    // <div className="p-4">
-    //   <h1 className="text-3xl font-bold mb-4">관리자 페이지</h1>
-    //   <p>Welcome to the admin system. Navigate to the pages using the menu.</p>
-    //   <ul>
-    //     <li><Link href="/login">Go to Login</Link></li>
-    //     <li><Link href="/dashboard">Go to Dashboard</Link></li>
-    //     <li><Link href="/user-management">Go to Data Management</Link></li>
-    //   </ul>
-    // </div>
     <div className="flex flex-col items-center justify-center h-screen bg-gray-50">
         <h1 className="text-2xl font-bold mb-6">로그인</h1>
         <form className="flex flex-col gap-4 w-1/3">
