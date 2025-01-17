@@ -16,7 +16,7 @@ TeamToast의 관리자 페이지는 효율적인 업무 관리와 협업을 지�
   <rect x="3" y="7" width="13" height="10" rx="2" ry="2"></rect>
   <polygon points="16 7 22 11 22 13 16 17 16 7"></polygon>
 </svg>
-    TeamToast-Admin.mp4  :  이미지 클릭 → 영상을 시청 
+    TeamToast-Admin.mp4  :  이미지 클릭 → 영상 시청 
   </summary>
 
   [![유튜브 미리보기 이미지](https://img.youtube.com/vi/4sR4FVVXjDQ/0.jpg)](https://www.youtube.com/watch?v=4sR4FVVXjDQ)
