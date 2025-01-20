@@ -1,12 +1,14 @@
 ## TeamToast 관리자 페이지
 <img src="https://github.com/CuteSeeun/Web-TeamToast/blob/main/cover.png" alt="홈 화면 예시" width="600" />
 
-- 배포 url : 
+- 배포 url : https://team-toast-fe.vercel.app/  
 
 
 ## 프로젝트 소개
-TeamToast의 관리자 페이지는 효율적인 업무 관리와 협업을 지원하는 서비스입니다.  
+TeamToast의 관리자 페이지는 시스템을 관리하고 데이터를 운영할 수 있도록 제공되는 페이지입니.  
 이 페이지는 관리자들이 사용자와 데이터를 효과적으로 관리할 수 있도록 설계되었으며 다음과 같은 주요 기능을 제공합니다.  
+
+  - 대시보드, 사용자 관리, 활동 로그, 서비스 설정, 신고 및 문의 관리, 통계 및 보고서, 시스템 모니터링  
 관리자들이 더욱 쉽게 데이터를 분석하고 의사 결정을 내릴 수 있도록 합니다.  
 
 
